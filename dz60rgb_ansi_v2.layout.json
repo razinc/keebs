@@ -71,9 +71,9 @@
       "KC_NO",
       "KC_RALT",
       "KC_RGUI",
-      "KC_APP",
+      "KC_RCTL",
       "KC_NO",
-      "KC_RCTL"
+      "KC_APP"
     ],
     [
       "KC_GRV",
